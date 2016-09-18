@@ -587,7 +587,7 @@ d3.json('chord-sclb/lotr_words_location_sclb.json', function (error, dataAgg) {
 		//for (var i = 18; i <= 26; i++)
 			//$($('text[class="outer-label-value"]')[i]).html( $($('text[class="outer-label-value"]')[i]).html().replace(" %","") );
 		
-		// Additional code (by Martin)
+		// Additional code
 		$($('g[class="outer-labels"]')[17]).attr("transform","translate(55.82844737356712,185.35306349959504)rotate(91.289280104012)translate(33,-11)");
 		
 		$('g[class="outer-labels"]').each(function() {
