@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+	<head>		
+		<!-- jQuery -->
+		<script src="chord-wclb/jquery-3.1.0.min.js"></script>
+		<style>
+			.centered-content {
+				width: 1360px;
+				height: 100%;
+
+				position:absolute; /*it can be fixed too*/
+				left:0; right:0;
+				top:0; bottom:0;
+				margin:auto;
+
+				/*this to solve "the content will not be cut when the window is smaller than the content": */
+				overflow:auto;
+				height: 580px;
+				line-height: 90px;
+			}
+			iframe { overflow:hidden; }
+			table {  
+				border-collapse: collapse;
+			}
+			th, td {
+				padding: 0px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="centered-content">
+			<table style="height: 580px; width:100%;" align="center">
+				<tr>
+					<td>
+						<iframe id="chord-wclb" style="border-style: none; height: 99%; width: 100%; margin-top: 5%; margin-bottom: 0%;" src="index_wclb.html" scrolling="no"></iframe>
+					</td>
+					<td>
+						<iframe id="chord-sclb" style="border-style: none; height: 99%; width: 100%; margin-top: 5%; margin-bottom: 0%;" src="index_sclb.html" scrolling="no"></iframe>
+					</td>
+				</tr>
+			</table>		
+		</div>
+	</body>
+</html>

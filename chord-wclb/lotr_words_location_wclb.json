@@ -1,0 +1,137 @@
+[
+  {
+    "location": "SB",
+    "character": "Australian",
+    "words": 469
+  },
+  {
+    "location": "SB ",
+    "character": "Breast Cancer",
+    "words": 654
+  },
+  {
+    "location": "SB  ",
+    "character": "Diabetes",
+    "words": 112
+  },
+  {
+    "location": "SB   ",
+    "character": "Heart",
+    "words": 400
+  },
+  {
+    "location": "SB    ",
+    "character": "Ionosphere",
+    "words": 400
+  },
+  {
+    "location": "SB     ",
+    "character": "Liver Disorders",
+    "words": 343
+  },
+  {
+    "location": "SB      ",
+	"character": "Lung Cancer",
+    "words": 899
+  },
+  {
+    "location": "SB       ",
+    "character": "Mammographic",
+    "words": 41
+  },
+  {
+    "location": "SB        ",
+    "character": "Vote",
+    "words": 799
+  },
+  {
+    "location": "GB",
+    "character": "Australian",
+    "words": 266
+  },
+  {
+    "location": "GB ",
+    "character": "Breast Cancer",
+    "words": 654
+  },
+  {
+    "location": "GB  ",
+    "character": "Diabetes",
+    "words": 259
+  },
+  {
+    "location": "GB   ",
+    "character": "Heart",
+    "words": 480
+  },
+  {
+    "location": "GB    ",
+    "character": "Ionosphere",
+    "words": 300
+  },
+  {
+    "location": "GB     ",
+    "character": "Liver Disorders",
+    "words": 277
+  },
+  {
+    "location": "GB      ",
+	"character": "Lung Cancer",
+    "words": 1155
+  },
+  {
+    "location": "GB       ",
+    "character": "Mammographic",
+    "words": 150
+  },
+  {
+    "location": "GB        ",
+    "character": "Vote",
+    "words": 599
+  },
+  {
+    "location": "SUCC",
+    "character": "Australian",
+    "words": 1011
+  },
+  {
+    "location": "SUCC ",
+    "character": "Breast Cancer",
+    "words": 600
+  },
+  {
+    "location": "SUCC  ",
+    "character": "Diabetes",
+    "words": 2022
+  },
+  {
+    "location": "SUCC   ",
+    "character": "Heart",
+    "words": 1011
+  },
+  {
+    "location": "SUCC    ",
+    "character": "Ionosphere",
+    "words": 400
+  },
+  {
+    "location": "SUCC     ",
+	"character": "Liver Disorders",
+    "words": 250
+  },
+  {
+    "location": "SUCC      ",
+    "character": "Lung Cancer",
+    "words": 80
+  },
+  {
+    "location": "SUCC       ",
+    "character": "Mammographic",
+    "words": 2426
+  },
+  {
+    "location": "SUCC        ",
+    "character": "Vote",
+    "words": 1678
+  }
+]
